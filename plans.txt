@@ -1,1 +1,4 @@
-    1.Morning gymnastic
+    1.Morning gym
+    2.Breakfast
+    3.Go to work
+    4.Work hard
